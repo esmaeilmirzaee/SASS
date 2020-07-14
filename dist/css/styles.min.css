@@ -1,0 +1,11 @@
+body {
+  background: white;
+}
+
+.box {
+  height: 100px;
+  width: 100px;
+  border-radius: 30px;
+  -webkit-box-shadow: 0 0 10px #333;
+          box-shadow: 0 0 10px #333;
+}
