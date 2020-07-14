@@ -6,3 +6,7 @@
 
 1. What is CSS?
 2.
+
+## Reference
+
+1. [Scalable and Modular Architecture for CSS](http://smacss.com/)
