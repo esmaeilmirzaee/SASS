@@ -7,6 +7,8 @@
 1. What is CSS?
 2.
 
+### Samples
+
 ## Reference
 
 1. [Scalable and Modular Architecture for CSS](http://smacss.com/)
