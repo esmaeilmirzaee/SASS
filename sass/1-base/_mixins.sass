@@ -1,0 +1,19 @@
+=box($radius, $shadow, $grad_one, $grad_two, $deg)
+  -webkit-border-radius: $radius
+  -moz-border-radius: $radius
+  border-radius: $radius
+
+  -webkit-box-shadow: 0 5px 10px $shadow
+  -moz-box-shadow: 0 5px 10px $shadow
+  box-shadow: 0 5px 10px $shadow
+
+  background: #036
+  background: -webkit-linear-gradient($deg, $grad_one, $grad_two)
+  background: -o-linear-gradient($deg, $grad_one, $grad_two)
+  background: -moz-linear-gradient($deg, $grad_one, $grad_two)
+  background: linear-gradient($deg, $grad_one, $grad_two)
+
+=border-radius($radius)
+  -webkit-border-radius: $radius
+  -moz-border-radius: $radius
+  border-radius: $radius
